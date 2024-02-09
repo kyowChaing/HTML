@@ -1,0 +1,22 @@
+
+to give multiple background image and position use , 
+
+
+some time margin create problem, so use padding insted it
+div or block lavel element auto increase its size according childe element size
+
+when font size wight increse line space creat problem, to solve it use first element margin bootom 0 and 
+ther next element margin top acording space that want(it happen  because of browser default margin padding) 
+
+margirn: 0 auto; use to align center horizontaly
+
+max-width: use to give maximum witde element
+
+shorthand : .clasName*div_quantity>element.clasName+element.clasName
+
+give image under div , give div width, then image width: 100% height: 100% object-fit: cover
+
+into  flex custom width and height value create responsive problem
+alt+shift+down arrow
+
+to use same style but class name different = classname, classname, classnem {}
